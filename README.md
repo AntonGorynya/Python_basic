@@ -21,7 +21,7 @@
   - os
   - argparse
   - collections
--[12_image_resize](12_image_resize/README.md) - Изменение размера картинок. Добавление границ. Удобно при подготовке настольной игры к печати
+- [12_image_resize](12_image_resize/README.md) - Изменение размера картинок. Добавление границ. Удобно при подготовке настольной игры к печати
   - PIL
   - argparse
   - logging
@@ -42,5 +42,12 @@
    - argparse  
    - re
    - unittest
+ - [19_site_generator](19_site_generator/README.md) - простой генартор страничек
+   - json
+   - jinja2 
+   - livereload 
+   - markdown
+   - glob
+   - os
  - [20_mood](20_mood/README.md)
  - [21_valid_markup](21_valid_markup/README.md)
