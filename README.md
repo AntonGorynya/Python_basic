@@ -21,3 +21,7 @@
   - os
   - argparse
   - collections
+ - [18_price_format](18_price_format/README.md) - Формат цены + тесты
+   - argparse  
+   - re
+   - unittest
