@@ -23,6 +23,12 @@
   - collections
 - [14_pre_commit_hook](14_pre_commit_hook/README.md) 
   - unittest
+- [17_sites_monitoring](17_sites_monitoring/README.md) - мониторинг сайтов. Проверка ответа. И домена.
+  - requests
+  - whois
+  - tldextract
+  - datetime 
+  - argparse
  - [18_price_format](18_price_format/README.md) - Формат цены + тесты
    - argparse  
    - re
