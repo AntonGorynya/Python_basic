@@ -1,9 +1,12 @@
-### Список проектов
-- [6_password_strength](6_password_strength/README.md) - скрипт проверяет силу пароля. Используемые библиотеки\модули
+### Список проектов + Библиотеки в них используемые
+- [6_password_strength](6_password_strength/README.md) - скрипт проверяет силу пароля.
     - getpass
     - re
     - collections 
     - string 
-- [8_vk_friends_online](8_vk_friends_online/README.md) - Выод друзей онлайн в консоль
+- [8_vk_friends_online](8_vk_friends_online/README.md) - Вывод друзей онлайн в консоль
   - vk
   - getpass
+- [9_github_trending](9_github_trending/README.md) - Тренды гита
+  - requests
+  - datetime 
