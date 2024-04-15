@@ -21,6 +21,8 @@
   - os
   - argparse
   - collections
+- [14_pre_commit_hook](14_pre_commit_hook/README.md) 
+  - unittest
  - [18_price_format](18_price_format/README.md) - Формат цены + тесты
    - argparse  
    - re
