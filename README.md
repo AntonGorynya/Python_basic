@@ -23,6 +23,10 @@
   - collections
 - [14_pre_commit_hook](14_pre_commit_hook/README.md) 
   - unittest
+- [15_midnighters](15_midnighters/README.md) 
+  - requests
+  - pytz
+  - datetime
 - [17_sites_monitoring](17_sites_monitoring/README.md) - мониторинг сайтов. Проверка ответа. И домена.
   - requests
   - whois
