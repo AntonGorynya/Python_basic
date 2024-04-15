@@ -17,3 +17,7 @@
   - openpyxl 
   - argparse
   - re
+- [11_duplicates](11_duplicates/README.md) - поиск дупликатов
+  - os
+  - argparse
+  - collections
