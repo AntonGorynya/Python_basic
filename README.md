@@ -10,3 +10,10 @@
 - [9_github_trending](9_github_trending/README.md) - Тренды гита
   - requests
   - datetime 
+- [10_coursera](10_coursera/README.md) - извлечение инфы о 20 случайных курсах
+  - requests
+  - random
+  - BeautifulSoup
+  - openpyxl 
+  - argparse
+  - re
