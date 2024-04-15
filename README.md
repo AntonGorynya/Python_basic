@@ -21,6 +21,11 @@
   - os
   - argparse
   - collections
+-[12_image_resize](12_image_resize/README.md) - Изменение размера картинок. Добавление границ. Удобно при подготовке настольной игры к печати
+  - PIL
+  - argparse
+  - logging
+  - os
 - [14_pre_commit_hook](14_pre_commit_hook/README.md) 
   - unittest
 - [15_midnighters](15_midnighters/README.md) 
