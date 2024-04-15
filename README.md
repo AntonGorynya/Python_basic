@@ -4,3 +4,6 @@
     - re
     - collections 
     - string 
+- [8_vk_friends_online](8_vk_friends_online/README.md) - Выод друзей онлайн в консоль
+  - vk
+  - getpass
