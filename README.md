@@ -1,3 +1,5 @@
+### Конеспект
+- [Базовые заметки по Python](theory.md)
 ### Список проектов + Библиотеки в них используемые
 - [6_password_strength](6_password_strength/README.md) - скрипт проверяет силу пароля.
     - getpass
