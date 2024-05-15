@@ -54,3 +54,4 @@
  - [20_mood](20_mood/README.md)
  - [21_valid_markup](21_valid_markup/README.md)
  - [e-diary_hack_script-master](e-diary_hack_script-master/README.md) Работа с моделями в Jango
+ - [ClickCounter](ClickCounter/README.md) через request сокращаем ссылки с помощью сервиса bit.ly
